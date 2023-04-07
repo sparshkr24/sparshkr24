@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sparsh Kumar
-- 👀 I’m interested in FULL STACK Web Development
-- 🌱 I’m currently learning APIs and React
-- 💞️ I’m looking to contribute on front end web development projects
+- 👀 I'm a Full-stack MERN developer with a passion for building beautiful, user-friendly web applications
+- 🌱 I’m an eager and a fast learner, excited to learn new technologies
+- 💞️ I’m looking to contribute on web development projects.
 - 📫 How to reach me :- sparsh24112002@gmail.com  and www.linkedin.com/in/sparsh-kumar-496b5b111
 
 <!---
