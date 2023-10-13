@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sparsh Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="center" alt="Coding" src="https://images.wallpaperscraft.com/image/single/code_programming_monitor_209719_1600x900.jpg">
-https://images.wallpaperscraft.com/image/single/code_programming_monitor_209719_1600x900.jpg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshkr24&label=Profile%20views&color=0e75b6&style=flat" alt="sparshkr24" /> </p>
 
